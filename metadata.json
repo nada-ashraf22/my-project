@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "description": "Smart Disease Diagnosis Assistant with comprehensive medical record management and QR-based patient identification.",
+  "name": "مشروع تخرج ",
+  "majorCapabilities": []
+}
